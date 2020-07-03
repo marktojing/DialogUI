@@ -1,0 +1,3 @@
+rootProject.name='DialogUI'
+include ':app'
+include ':dialoglib'
